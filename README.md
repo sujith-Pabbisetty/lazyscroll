@@ -1,8 +1,21 @@
 # LazyScroll 📜👁️
 
+[![Download APK](https://img.shields.io/badge/Download-LazyScroll%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sujith-Pabbisetty/lazyscroll/raw/main/lazyscroll.apk)
+
 **LazyScroll** is an innovative Android application designed for hands-free scrolling using CameraX eye-blink detection via Google ML Kit and Android Accessibility Services.
 
 ---
+
+## 📥 Download & Install
+
+Click the button below to download the latest APK directly:
+
+[<img src="https://img.shields.io/badge/Download_APK-v1.0-blue?style=for-the-badge&logo=android" height="45">](https://github.com/sujith-Pabbisetty/lazyscroll/raw/main/lazyscroll.apk)
+
+Or download directly using this link: **[lazyscroll.apk](https://github.com/sujith-Pabbisetty/lazyscroll/raw/main/lazyscroll.apk)**
+
+---
+
 
 ## 🌟 Key Features
 
