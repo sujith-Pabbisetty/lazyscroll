@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LazyScroll</string>
+    <string name="service_description">Provides eye-blink controlled auto-scrolling for apps.</string>
+    <string name="status_off">LazyScroll: Off</string>
+    <string name="status_watching">Watching Eyes...</string>
+    <string name="status_blink_1">Blink 1 Detected...</string>
+    <string name="status_blink_2">Double Blink! Scrolling...</string>
+    <string name="btn_start">▶ Start</string>
+    <string name="btn_stop">■ Stop</string>
+    <string name="error_camera">Camera Error</string>
+    <string name="error_no_face">No Face Found</string>
+    <string name="perm_overlay">1. Grant Overlay Permission</string>
+    <string name="perm_camera">2. Grant Camera Permission</string>
+    <string name="perm_accessibility">3. Enable Accessibility Service</string>
+    <string name="granted">GRANTED</string>
+    <string name="enabled">ENABLED</string>
+    <string name="show_hide_controls">Show/Hide Control Bar</string>
+    <string name="need_permissions">Please enable all permissions first!</string>
+</resources>
